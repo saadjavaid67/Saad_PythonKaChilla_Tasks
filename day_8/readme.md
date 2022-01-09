@@ -1,4 +1,4 @@
-i# 1- Headings
+# 1- Headings
 
 # Heading 1
 ## Heading 2
